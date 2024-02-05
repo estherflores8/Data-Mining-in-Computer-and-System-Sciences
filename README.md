@@ -30,22 +30,25 @@ These labs were developed as part of the curriculum at Stockholm University and 
    - Implementation of K-medians
 
 3. **Lab 3: Classification, Evaluation, and Deployment**
-   
-   0. Preparation 
+
+   - Preparation 
      - Drop missing values 
      - Assign X and y 
      - One-hot encoding 
      - Train test split 
-     - Standardization 
-  1. Classification 
+     - Standardization
+       
+  -  Classification 
      - Random forest
      - SVM with diverse kernels
      - Decision tree and Random Forest
-  2. Evaluation 
+       
+  - Evaluation 
      - Accuracy, Precision, Recall, F1-score 
      - AUC/AUPRC 
-     - Manual implementation of performance metrics 
-  3. Deployment
+     - Manual implementation of performance metrics
+   
+  -  Deployment
      - Save models into a file using pickle 
      - DASH deployment 
 

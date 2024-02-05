@@ -31,12 +31,12 @@ These labs were developed as part of the curriculum at Stockholm University and 
 
 3. **Lab 3: Classification, Evaluation, and Deployment**
 
-   - Preparation
-      - Drop missing values
-      - Assign X and y
-      - One-hot encoding
-      - Train test split
-      - Standardization
+- Preparation
+   - Drop missing values
+   - Assign X and y
+   - One-hot encoding
+   - Train test split
+   - Standardization
        
   -  Classification 
      - Random forest

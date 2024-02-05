@@ -30,6 +30,7 @@ These labs were developed as part of the curriculum at Stockholm University and 
    - Implementation of K-medians
 
 3. **Lab 3: Classification, Evaluation, and Deployment**
+   
    0. Preparation 
      - Drop missing values 
      - Assign X and y 
